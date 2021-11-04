@@ -1,3 +1,9 @@
+# Gradients ![Gradients icon](./src/gradients-icon.png)
+
+[Gradients](https://alyra-greenteam-gradientsapp.netlify.app/ "Gradients web app") is a **_react project_**.<br>
+This simple application allows you to interact with differents kinds of colors gradients.<br>
+Gradients is deployed on Netlify.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
